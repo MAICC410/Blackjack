@@ -26,7 +26,11 @@ To start playing the game:
 2. Navigate to the cloned directory.
 3. Run the Python script.
 
+## Acknowledgments
+This project was created as a part of the 100 days of code course from Udemy
+
 ```bash
 git clone https://github.com/MAICC410/Blackjack.git
 cd blackjack
 python blackjack.py
+
